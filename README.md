@@ -1,5 +1,5 @@
 
-<img align='right' src='https://github.com/vipulgote1999/vipulgote1999/blob/master/images/octocat-anime.gif' width='150"'>
+<img align='right' src='https://github.com/vipulgote1999/vipulgote1999/blob/master/gif/giphy%20(1).gif' width='150"'>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vipul-gote-21a923183/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/vipul_gote_4) ![visitors](https://hit-badger.glitch.me/badge?page_id=vipulgote1999.id)
 ![GitHub followers](https://img.shields.io/github/followers/vipulgote1999?style=social)
@@ -20,8 +20,6 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 ⚡ Fun fact: Recycling one glass jar saves enough energy to watch television for 3 hours.
 
 📄 Resume : https://drive.google.com/file/d/1FZPKWF9STZa-b-rySPdDg9ZH18nOCoEP/view?usp=sharing
-
-
 
 <!--
 **vipulgote1999/vipulgote1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +47,6 @@ Here are some ideas to get you started:
 
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
-
 
 
 

@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 | keras | C | SQL | kaggle | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
+<img align='right' src='https://github.com/vipulgote1999/vipulgote1999/blob/master/images/octocat-anime.gif' width='200"'>
+
 | Pandas | GCP | Tensorflow | OpenCV | Matplotlib |
 | :---: | :---: | :---: | :---: | :---: |
 

@@ -4,6 +4,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vipul-gote-21a923183/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/vipul_gote_4) ![visitors](https://hit-badger.glitch.me/badge?page_id=vipulgote1999.id)
 ![GitHub followers](https://img.shields.io/github/followers/vipulgote1999?style=social)
 [![Medium](https://github.com/vipulgote1999/vipulgote1999/blob/master/badges/medium.svg)](https://medium.com/@vipulgote4)
+[![Sourcerer](https://github.com/vipulgote1999/vipulgote1999/blob/master/logos/sourcerer-start%20now-brightgreen.svg)](https://sourcerer.io/vipulgote1999)
 
 I'm [Vipul Gote](https://sites.google.com/view/vipul-ai/home?read_current=1) a BE (ENTC) student and an AI enthusiast from 
 [Pune, India](https://www.google.com/maps/place/18%C2%B037'24.5%22N+73%C2%B051'57.2%22E/@18.6232771,73.8658642,18z/data=!4m6!3m5!1s0x3bc2c7a004c0434d:0xd954c28b78729216!7e2!8m2!3d18.6234674!4d73.8658959) :india:.

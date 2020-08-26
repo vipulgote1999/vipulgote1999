@@ -21,26 +21,6 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 
 📄 Resume : https://drive.google.com/file/d/1FZPKWF9STZa-b-rySPdDg9ZH18nOCoEP/view?usp=sharing
 
-My visual profile for developer.
-<br>
-<p align="center">
-  <img alt="sergey" src=https://github.com/vipulgote1999/vipulgote1999/blob/master/gif/giphy.gif">
-</p>
-
-<!--
-**vipulgote1999/vipulgote1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 | Python | Sklearn | C++ | PySpark | PowerBI | 
 | :---: | :---: | :---: | :---: | :---: | 
@@ -57,5 +37,10 @@ Here are some ideas to get you started:
 | :---: | :---: | :---: | :---: | :---: |
 
 
-
 ![](https://github-readme-stats.vercel.app/api?username=vipulgote1999&show_icons=true&line_height=30)
+
+## My visual profile for developer.
+<br>
+<p >
+  <img align="center" alt="GIF" src="https://github.com/vipulgote1999/vipulgote1999/blob/master/gif/giphy.gif" width="500"/>
+</p>

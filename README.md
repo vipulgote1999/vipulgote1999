@@ -39,8 +39,3 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 
 ![](https://github-readme-stats.vercel.app/api?username=vipulgote1999&show_icons=true&line_height=30)
 
-## My visual profile for developer.
-<br>
-<p >
-  <img align="center" alt="GIF" src="https://github.com/vipulgote1999/vipulgote1999/blob/master/gif/giphy.gif" width="500"/>
-</p>

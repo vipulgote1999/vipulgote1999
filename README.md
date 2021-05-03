@@ -1,7 +1,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/vipulgote1999/vipulgote1999/blob/master/gif/giphy%20(1).gif" width="360"/>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vipul-gote-21a923183/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/vipul_gote_4) ![visitors](https://hit-badger.glitch.me/badge?page_id=vipulgote1999.id)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vipul-gote-21a923183/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/vipul_gote_4) ![visitors](https://Visitor-badge.glitch.me/badge?page_id=vipulgote1999.profileviews-badge)
+
 ![GitHub followers](https://img.shields.io/github/followers/vipulgote1999?style=social)
 [![Medium](https://github.com/vipulgote1999/vipulgote1999/blob/master/badges/medium.svg)](https://medium.com/@vipulgote4)
 [![Sourcerer](https://github.com/vipulgote1999/vipulgote1999/blob/master/logos/sourcerer-start%20now-brightgreen.svg)](https://sourcerer.io/vipulgote1999)
@@ -15,7 +16,7 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 
 🔭 I’m currently working on : PySpark and Computer Vision papers.
 
-💬 Ask me about: Python , Machine Learning, Deep learning , Cosmos , Physics and Animes Series.
+💬 Ask me about: Python , AI/ML , Javascript ,Cosmos , Physics and Animes Series.
 
 ⚡ Fun fact: Recycling one glass jar saves enough energy to watch television for 3 hours.
 

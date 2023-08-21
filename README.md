@@ -16,7 +16,7 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 
 🔭 I’m currently working on : PySpark and Computer Vision papers.
 
-💬 Ask me about: Python , AI/ML , Javascript ,Cosmos , Physics and Animes Series.
+💬 Ask me about: Python , AI/ML  ,Cosmos , Physics and Animes Series.
 
 ⚡ Fun fact: Recycling one glass jar saves enough energy to watch television for 3 hours.
 

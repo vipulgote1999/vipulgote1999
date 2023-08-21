@@ -22,6 +22,11 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 
 📄 Resume : [Download Here](https://drive.google.com/file/d/1CYYug7ZJMFIbnU572Z0hoOYWDlk-0k8W/view?usp=sharing)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vipulgote1999&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 | Python | Sklearn | C++ | PySpark | PowerBI | 
 | :---: | :---: | :---: | :---: | :---: | 
@@ -37,8 +42,7 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vipulgote1999&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=vipulgote1999&show_icons=true&line_height=30)
 

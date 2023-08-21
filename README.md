@@ -20,7 +20,7 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 
 ⚡ Fun fact: Recycling one glass jar saves enough energy to watch television for 3 hours.
 
-📄 Resume : https://drive.google.com/file/d/1FZPKWF9STZa-b-rySPdDg9ZH18nOCoEP/view?usp=sharing
+📄 Resume : [Download Here](https://drive.google.com/file/d/1CYYug7ZJMFIbnU572Z0hoOYWDlk-0k8W/view?usp=sharing)
 
 
 | Python | Sklearn | C++ | PySpark | PowerBI | 
@@ -37,6 +37,8 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muharsyad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api?username=vipulgote1999&show_icons=true&line_height=30)
 

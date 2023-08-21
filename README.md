@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/vipulgote1999/vipulgote1999/blob/master/gif/giphy%20(1).gif" width="360"/>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vipul-gote-21a923183/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/vipul_gote_4) [![](https://visitcount.itsvg.in/api?id=muharsyad&icon=0&color=6)](https://visitcount.itsvg.in)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vipul-gote-21a923183/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/vipul_gote_4) [![](https://visitcount.itsvg.in/api?id=vipulgote1999&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ![GitHub followers](https://img.shields.io/github/followers/vipulgote1999?style=social)
 [![Medium](https://github.com/vipulgote1999/vipulgote1999/blob/master/badges/medium.svg)](https://medium.com/@vipulgote4)

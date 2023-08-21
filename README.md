@@ -38,7 +38,7 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 | :---: | :---: | :---: | :---: | :---: |
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muharsyad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vipulgote1999&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api?username=vipulgote1999&show_icons=true&line_height=30)
 

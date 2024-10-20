@@ -33,6 +33,9 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 | Python | Sklearn | Shell Scripting | PySpark | PowerBI | 
 | :---: | :---: | :---: | :---: | :---: | 
 
+| LLM | VectorDB | LLM Agents | RAG | LLMOps | 
+| :---: | :---: | :---: | :---: | :---: | 
+
 | keras | HDFS | SQL | Flask/FastAPI | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
@@ -44,8 +47,6 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and O
 | Docker | Jenkins | Apache Airflow | AIops |  |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
-| :---: | :---: | :---: | :---: | :---: |
 
 
 

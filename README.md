@@ -1,54 +1,60 @@
+<div align="center">
 
-<img align="right" alt="GIF" src="https://github.com/vipulgote1999/vipulgote1999/blob/master/gif/giphy%20(1).gif" width="360"/>
+# Hi 👋, I'm Vipul Gote
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vipul-gote-21a923183/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/vipul_gote_4) [![](https://visitcount.itsvg.in/api?id=vipulgote1999&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+### Data Scientist & GenAI Engineer · Pune, India 🇮🇳
 
-![GitHub followers](https://img.shields.io/github/followers/vipulgote1999?style=social)
-[![Medium](https://github.com/vipulgote1999/vipulgote1999/blob/master/badges/medium.svg)](https://medium.com/@vipulgote4)
-[![Sourcerer](https://github.com/vipulgote1999/vipulgote1999/blob/master/logos/sourcerer-start%20now-brightgreen.svg)](https://sourcerer.io/vipulgote1999)
-[![vipul's StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13910652)](https://stackoverflow.com/users/13910652/vipul-gote)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Data+Scientist+%26+GenAI+Engineer;Building+LLMs+%C2%B7+Agents+%C2%B7+RAG+Systems;LangChain+%7C+LangGraph+%7C+LLMOps+%7C+BigData)](https://git.io/typing-svg)
 
-I'm [Vipul Gote](https://sites.google.com/view/vipul-ai/home?read_current=1) a BE (ENTC) student and an AI enthusiast from 
-[Pune, India](https://www.google.com/maps/place/18%C2%B037'24.5%22N+73%C2%B051'57.2%22E/@18.6232771,73.8658642,18z/data=!4m6!3m5!1s0x3bc2c7a004c0434d:0xd954c28b78729216!7e2!8m2!3d18.6234674!4d73.8658959) :india:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-gote-21a923183/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/vipul_gote_4)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vipulgote4)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4GzzT8pY_GS_j_MLgM6SQw)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/vipul-ai/home)
+[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CYYug7ZJMFIbnU572Z0hoOYWDlk-0k8W/view)
 
-I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista and Open Source Contributor!
+[![GitHub followers](https://img.shields.io/github/followers/vipulgote1999?style=social)](https://github.com/vipulgote1999)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13910652/vipul-gote)
+[![Profile views](https://komarev.com/ghpvc/?username=vipulgote1999&color=blueviolet&style=flat-square)](https://github.com/vipulgote1999)
 
-🌱 I’m currently exploring: Machine Learning and Deep learning.
+</div>
 
-🔭 I’m currently working on : BigData and AIML at Tech Mahindra.
+## 👨‍💻 About Me
 
-💬 Ask me about: Python , AI/ML, Bigdata ,Cosmos , Physics and Animes Series.
+I'm a **Data Scientist & GenAI Engineer at [Tata Technologies](https://www.tatatechnologies.com/)** with **4+ years of experience** building scalable ML systems, LLM pipelines, and intelligent agents. I currently build **Generative AI solutions for Tata Motors**, and previously led **BigData & AIML** initiatives at **Tech Mahindra** (2021–2024).
 
-⚡ Fun fact: Training a single AI model on a powerful GPU cluster can consume the same amount of electricity as a small town in a year!
+- 🔭 **Currently:** GenAI at Tata Technologies — self-hosted LLM inference serving, agentic AI with LangGraph, LLM performance monitoring & observability
+- 🌱 **Exploring:** LLMOps · MLOps · RAG at scale · VectorDBs
+- 📌 **Open to:** opportunities in GenAI / ML Engineering — I'm most active on [LinkedIn](https://www.linkedin.com/in/vipul-gote-21a923183/)
+- 💬 **Ask me about:** Python, Generative AI, RAG, Agentic AI, BigData — or Cosmology, Physics & Anime
+- ⚡ **Fun fact:** Training a single AI model on a powerful GPU cluster can consume as much electricity as a small town in a year!
 
+## 🏆 Highlights
 
-📄 Resume : [Download Here](https://drive.google.com/file/d/1CYYug7ZJMFIbnU572Z0hoOYWDlk-0k8W/view?usp=sharing)
+- 🚀 Designed & deployed a **self-hosted LLM inference framework** handling **1,024+ concurrent users** (PoC → production)
+- 🤖 Built **autonomous multi-agent systems** with LangGraph for real-world workflows
+- 📈 Improved **service ticket classification accuracy by 15%** with Machine Learning
+- ✍️ Cut **manual documentation effort by 30%** using Generative AI
+- 🎯 Streamlined RMG associate recommendations, reducing **manual effort by 15%**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vipulgote1999&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 Featured Work
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![AWS EMR](https://img.shields.io/badge/AWS-EMR)
+- [**Multi-Agent System with LangGraph**](https://github.com/vipulgote1999/MultiAIAgent_using_LangGraph-master) — autonomous multi-agent AI workflows
+- [**MT5 Question-Answer Generation & Extraction**](https://github.com/vipulgote1999/MT5-Questions-Answers-Generation-Extraction) — QA generation with MT5
+- [**Text Generation Inference (Demo)**](https://github.com/vipulgote1999/demo-text-generation-inference) — LLM inference serving demo
+- [**Practical ML with TensorFlow**](https://github.com/vipulgote1999/practical-machine-learining-with-tensorflow) — NPTEL deep learning & probabilistic graphical models materials
+- [**Snapchat Filters with Dlib**](https://github.com/vipulgote1999/Snapchat-filters-using-Dlib) — real-time face filters with 68-point landmarks
 
-| Python | Sklearn | Shell Scripting | PySpark | PowerBI | 
-| :---: | :---: | :---: | :---: | :---: | 
+## 🛠️ Tech Stack
 
-| LLM | VectorDB | LLM Agents | RAG | LLMOps | 
-| :---: | :---: | :---: | :---: | :---: | 
+**Languages** — Python · C++ · Shell Scripting · SQL
+**AI / ML** — TensorFlow · Keras · scikit-learn · OpenCV · NumPy · Pandas
+**GenAI** — LangChain · LangGraph · Hugging Face · RAG · VectorDBs · LLMOps
+**Big Data** — PySpark · HDFS · Hive · Apache Kafka · MySQL · Power BI
+**Cloud & DevOps** — AWS · GCP · Docker · Jenkins · Apache Airflow · MLOps
 
-| keras | HDFS | SQL | Flask/FastAPI | Numpy |
-| :---: | :---: | :---: | :---: | :---: |
+## 📊 GitHub Stats
 
-<img align='right' src='https://github.com/vipulgote1999/vipulgote1999/blob/master/images/octocat-anime.gif' width='200"'>
-
-| Pandas | AWS | Tensorflow | OpenCV | Apache Kafka |
-| :---: | :---: | :---: | :---: | :---: |
-
-| Docker | Jenkins | Apache Airflow | AIops |  |
-| :---: | :---: | :---: | :---: | :---: |
-
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=vipulgote1999&show_icons=true&line_height=30)
-
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=vipulgote1999&cc=0d1117&tc=58A6FF&ic=58A6FF&bc=30363d" alt="GitHub Stats" />
+</p>

@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-gote-21a923183/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/vipul_gote_4)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vipulgote4)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4GzzT8pY_GS_j_MLgM6SQw)
+<!-- >[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4GzzT8pY_GS_j_MLgM6SQw)<!-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/vipul-ai/home)
 [![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CYYug7ZJMFIbnU572Z0hoOYWDlk-0k8W/view)
 

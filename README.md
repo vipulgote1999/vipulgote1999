@@ -11,7 +11,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vipulgote4)
 <!-- >[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4GzzT8pY_GS_j_MLgM6SQw)<!-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/vipul-ai/home)
-[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CYYug7ZJMFIbnU572Z0hoOYWDlk-0k8W/view)
+[![Resume]([https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CYYug7ZJMFIbnU572Z0hoOYWDlk-0k8W/view](https://drive.google.com/file/d/1Z_nlQyBcVy3yctilREiDt8Mx62dZ-39R/view?usp=sharing))
 
 [![GitHub followers](https://img.shields.io/github/followers/vipulgote1999?style=social)](https://github.com/vipulgote1999)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13910652/vipul-gote)
